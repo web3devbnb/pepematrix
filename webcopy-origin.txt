@@ -1,0 +1,292 @@
+Uri: https://cdn.jsdelivr.net/npm/swiper@8.3.2/swiper-bundle.min.css
+File Name: C:\Downloaded Web Sites\pepemeta.tech\npm\swiper@8.3.2\swiper-bundle.min.css
+Content Type: text/css
+
+Uri: https://cdn.jsdelivr.net/npm/uikit@3.15.1/dist/css/uikit.min.css
+File Name: C:\Downloaded Web Sites\pepemeta.tech\npm\uikit@3.15.1\dist\css\uikit.min.css
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css2?family=Bowlby+One+SC&family=Preahvihear&family=Space+Grotesk:wght@400;700&family=Inter:wght@200;400;600&display=swap
+File Name: C:\Downloaded Web Sites\pepemeta.tech\css2
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Material+Icons|Material+Icons+Outlined|Material+Icons+Two+Tone|Material+Icons+Round|Material+Icons+Sharp&display=swap
+File Name: C:\Downloaded Web Sites\pepemeta.tech\css
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/bowlbyonesc/v20/DtVlJxerQqQm37tzN3wMug9Pzgg.ttf
+File Name: C:\Downloaded Web Sites\pepemeta.tech\s\bowlbyonesc\v20\DtVlJxerQqQm37tzN3wMug9Pzgg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v12/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuDyfMZg.ttf
+File Name: C:\Downloaded Web Sites\pepemeta.tech\s\inter\v12\UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuDyfMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v12/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuGKYMZg.ttf
+File Name: C:\Downloaded Web Sites\pepemeta.tech\s\inter\v12\UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuGKYMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v12/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuLyfMZg.ttf
+File Name: C:\Downloaded Web Sites\pepemeta.tech\s\inter\v12\UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuLyfMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/materialicons/v140/flUhRq6tzZclQEJ-Vdg-IuiaDsNZ.ttf
+File Name: C:\Downloaded Web Sites\pepemeta.tech\s\materialicons\v140\flUhRq6tzZclQEJ-Vdg-IuiaDsNZ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/materialiconsoutlined/v109/gok-H7zzDkdnRel8-DQ6KAXJ69wP1tGnf4ZGhUcd.otf
+File Name: C:\Downloaded Web Sites\pepemeta.tech\s\materialiconsoutlined\v109\gok-H7zzDkdnRel8-DQ6KAXJ69wP1tGnf4ZGhUcd.otf
+Content Type: font/otf
+
+Uri: https://fonts.gstatic.com/s/materialiconsround/v108/LDItaoyNOAY6Uewc665JcIzCKsKc_M9flwmM.otf
+File Name: C:\Downloaded Web Sites\pepemeta.tech\s\materialiconsround\v108\LDItaoyNOAY6Uewc665JcIzCKsKc_M9flwmM.otf
+Content Type: font/otf
+
+Uri: https://fonts.gstatic.com/s/materialiconssharp/v109/oPWQ_lt5nv4pWNJpghLP75WiFR4kLh3kvmvS.otf
+File Name: C:\Downloaded Web Sites\pepemeta.tech\s\materialiconssharp\v109\oPWQ_lt5nv4pWNJpghLP75WiFR4kLh3kvmvS.otf
+Content Type: font/otf
+
+Uri: https://fonts.gstatic.com/s/materialiconstwotone/v112/hESh6WRmNCxEqUmNyh3JDeGxjVVyMg4tHGctNCu3.otf
+File Name: C:\Downloaded Web Sites\pepemeta.tech\s\materialiconstwotone\v112\hESh6WRmNCxEqUmNyh3JDeGxjVVyMg4tHGctNCu3.otf
+Content Type: font/otf
+
+Uri: https://fonts.gstatic.com/s/preahvihear/v27/6NUS8F-dNQeEYhzj7uluxswE.ttf
+File Name: C:\Downloaded Web Sites\pepemeta.tech\s\preahvihear\v27\6NUS8F-dNQeEYhzj7uluxswE.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/spacegrotesk/v15/V8mQoQDjQSkFtoMM3T6r8E7mF71Q-gOoraIAEj4PVksj.ttf
+File Name: C:\Downloaded Web Sites\pepemeta.tech\s\spacegrotesk\v15\V8mQoQDjQSkFtoMM3T6r8E7mF71Q-gOoraIAEj4PVksj.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/spacegrotesk/v15/V8mQoQDjQSkFtoMM3T6r8E7mF71Q-gOoraIAEj7oUUsj.ttf
+File Name: C:\Downloaded Web Sites\pepemeta.tech\s\spacegrotesk\v15\V8mQoQDjQSkFtoMM3T6r8E7mF71Q-gOoraIAEj7oUUsj.ttf
+Content Type: font/ttf
+
+Uri: https://kit.fontawesome.com/22f7957471.js
+File Name: C:\Downloaded Web Sites\pepemeta.tech\22f7957471.js
+Content Type: text/javascript
+
+Uri: https://pepemeta.tech/
+File Name: C:\Downloaded Web Sites\pepemeta.tech\index.htm
+Content Type: text/html
+
+Uri: https://pepemeta.tech/assets/css/theme/main.min.css
+File Name: C:\Downloaded Web Sites\pepemeta.tech\assets\css\theme\main.min.css
+Content Type: text/css
+
+Uri: https://pepemeta.tech/assets/fonts/brand-icons/brand-icons.eot
+File Name: C:\Downloaded Web Sites\pepemeta.tech\assets\fonts\brand-icons\brand-icons.eot
+Content Type: application/octet-stream
+
+Uri: https://pepemeta.tech/assets/fonts/brand-icons/brand-icons.svg
+File Name: C:\Downloaded Web Sites\pepemeta.tech\assets\fonts\brand-icons\brand-icons.svg
+Content Type: image/svg+xml
+
+Uri: https://pepemeta.tech/assets/fonts/brand-icons/brand-icons.ttf
+File Name: C:\Downloaded Web Sites\pepemeta.tech\assets\fonts\brand-icons\brand-icons.ttf
+Content Type: font/ttf
+
+Uri: https://pepemeta.tech/assets/fonts/brand-icons/brand-icons.woff
+File Name: C:\Downloaded Web Sites\pepemeta.tech\assets\fonts\brand-icons\brand-icons.woff
+Content Type: application/font-woff
+
+Uri: https://pepemeta.tech/assets/fonts/brand-icons/brand-icons.woff2
+File Name: C:\Downloaded Web Sites\pepemeta.tech\assets\fonts\brand-icons\brand-icons.woff2
+Content Type: font/woff2
+
+Uri: https://pepemeta.tech/assets/fonts/mabry-pro/MabryPro-Black.woff
+File Name: C:\Downloaded Web Sites\pepemeta.tech\assets\fonts\mabry-pro\MabryPro-Black.woff
+Content Type: application/font-woff
+
+Uri: https://pepemeta.tech/assets/fonts/mabry-pro/MabryPro-Black.woff2
+File Name: C:\Downloaded Web Sites\pepemeta.tech\assets\fonts\mabry-pro\MabryPro-Black.woff2
+Content Type: font/woff2
+
+Uri: https://pepemeta.tech/assets/fonts/mabry-pro/MabryPro-Bold.woff
+File Name: C:\Downloaded Web Sites\pepemeta.tech\assets\fonts\mabry-pro\MabryPro-Bold.woff
+Content Type: application/font-woff
+
+Uri: https://pepemeta.tech/assets/fonts/mabry-pro/MabryPro-Bold.woff2
+File Name: C:\Downloaded Web Sites\pepemeta.tech\assets\fonts\mabry-pro\MabryPro-Bold.woff2
+Content Type: font/woff2
+
+Uri: https://pepemeta.tech/assets/fonts/mabry-pro/MabryPro-Regular.woff
+File Name: C:\Downloaded Web Sites\pepemeta.tech\assets\fonts\mabry-pro\MabryPro-Regular.woff
+Content Type: application/font-woff
+
+Uri: https://pepemeta.tech/assets/fonts/mabry-pro/MabryPro-Regular.woff2
+File Name: C:\Downloaded Web Sites\pepemeta.tech\assets\fonts\mabry-pro\MabryPro-Regular.woff2
+Content Type: font/woff2
+
+Uri: https://pepemeta.tech/assets/fonts/power-grotesk/PowerGrotesk-UltraBold.woff
+File Name: C:\Downloaded Web Sites\pepemeta.tech\assets\fonts\power-grotesk\PowerGrotesk-UltraBold.woff
+Content Type: application/font-woff
+
+Uri: https://pepemeta.tech/assets/fonts/power-grotesk/PowerGrotesk-UltraBold.woff2
+File Name: C:\Downloaded Web Sites\pepemeta.tech\assets\fonts\power-grotesk\PowerGrotesk-UltraBold.woff2
+Content Type: font/woff2
+
+Uri: https://pepemeta.tech/assets/fonts/stolzl/Stolzl-Bold.woff
+File Name: C:\Downloaded Web Sites\pepemeta.tech\assets\fonts\stolzl\Stolzl-Bold.woff
+Content Type: application/font-woff
+
+Uri: https://pepemeta.tech/assets/fonts/stolzl/Stolzl-Bold.woff2
+File Name: C:\Downloaded Web Sites\pepemeta.tech\assets\fonts\stolzl\Stolzl-Bold.woff2
+Content Type: font/woff2
+
+Uri: https://pepemeta.tech/assets/fonts/stolzl/Stolzl-Book.woff
+File Name: C:\Downloaded Web Sites\pepemeta.tech\assets\fonts\stolzl\Stolzl-Book.woff
+Content Type: application/font-woff
+
+Uri: https://pepemeta.tech/assets/fonts/stolzl/Stolzl-Book.woff2
+File Name: C:\Downloaded Web Sites\pepemeta.tech\assets\fonts\stolzl\Stolzl-Book.woff2
+Content Type: font/woff2
+
+Uri: https://pepemeta.tech/assets/fonts/stolzl/StolzlDisplay-Bold.woff
+File Name: C:\Downloaded Web Sites\pepemeta.tech\assets\fonts\stolzl\StolzlDisplay-Bold.woff
+Content Type: application/font-woff
+
+Uri: https://pepemeta.tech/assets/fonts/stolzl/StolzlDisplay-Bold.woff2
+File Name: C:\Downloaded Web Sites\pepemeta.tech\assets\fonts\stolzl\StolzlDisplay-Bold.woff2
+Content Type: font/woff2
+
+Uri: https://pepemeta.tech/assets/fonts/stolzl/StolzlDisplay-Regular.woff
+File Name: C:\Downloaded Web Sites\pepemeta.tech\assets\fonts\stolzl\StolzlDisplay-Regular.woff
+Content Type: application/font-woff
+
+Uri: https://pepemeta.tech/assets/fonts/stolzl/StolzlDisplay-Regular.woff2
+File Name: C:\Downloaded Web Sites\pepemeta.tech\assets\fonts\stolzl\StolzlDisplay-Regular.woff2
+Content Type: font/woff2
+
+Uri: https://pepemeta.tech/assets/fonts/syne/Syne-Bold.woff
+File Name: C:\Downloaded Web Sites\pepemeta.tech\assets\fonts\syne\Syne-Bold.woff
+Content Type: application/font-woff
+
+Uri: https://pepemeta.tech/assets/fonts/syne/Syne-Bold.woff2
+File Name: C:\Downloaded Web Sites\pepemeta.tech\assets\fonts\syne\Syne-Bold.woff2
+Content Type: font/woff2
+
+Uri: https://pepemeta.tech/assets/images/bscscan.svg
+File Name: C:\Downloaded Web Sites\pepemeta.tech\assets\images\bscscan.svg
+Content Type: image/svg+xml
+
+Uri: https://pepemeta.tech/assets/images/coinmarketcap-seeklogo.com.png
+File Name: C:\Downloaded Web Sites\pepemeta.tech\assets\images\coinmarketcap-seeklogo.com.png
+Content Type: image/png
+
+Uri: https://pepemeta.tech/assets/images/color-white.png
+File Name: C:\Downloaded Web Sites\pepemeta.tech\assets\images\color-white.png
+Content Type: image/png
+
+Uri: https://pepemeta.tech/assets/images/gradient-circle.svg
+File Name: C:\Downloaded Web Sites\pepemeta.tech\assets\images\gradient-circle.svg
+Content Type: image/svg+xml
+
+Uri: https://pepemeta.tech/assets/images/id_3gM5vGA.png
+File Name: C:\Downloaded Web Sites\pepemeta.tech\assets\images\id_3gM5vGA.png
+Content Type: image/png
+
+Uri: https://pepemeta.tech/assets/images/join-community.png
+File Name: C:\Downloaded Web Sites\pepemeta.tech\assets\images\join-community.png
+Content Type: image/png
+
+Uri: https://pepemeta.tech/assets/images/metamainlogo.png
+File Name: C:\Downloaded Web Sites\pepemeta.tech\assets\images\metamainlogo.png
+Content Type: image/png
+
+Uri: https://pepemeta.tech/assets/images/objects/circle-01.png
+File Name: C:\Downloaded Web Sites\pepemeta.tech\assets\images\objects\circle-01.png
+Content Type: image/png
+
+Uri: https://pepemeta.tech/assets/images/objects/circle-02.png
+File Name: C:\Downloaded Web Sites\pepemeta.tech\assets\images\objects\circle-02.png
+Content Type: image/png
+
+Uri: https://pepemeta.tech/assets/images/objects/x.png
+File Name: C:\Downloaded Web Sites\pepemeta.tech\assets\images\objects\x.png
+Content Type: image/png
+
+Uri: https://pepemeta.tech/assets/images/pepe1.png
+File Name: C:\Downloaded Web Sites\pepemeta.tech\assets\images\pepe1.png
+Content Type: image/png
+
+Uri: https://pepemeta.tech/assets/images/pepe2.png
+File Name: C:\Downloaded Web Sites\pepemeta.tech\assets\images\pepe2.png
+Content Type: image/png
+
+Uri: https://pepemeta.tech/assets/images/pepe3.png
+File Name: C:\Downloaded Web Sites\pepemeta.tech\assets\images\pepe3.png
+Content Type: image/png
+
+Uri: https://pepemeta.tech/assets/images/pepe4.avif
+File Name: C:\Downloaded Web Sites\pepemeta.tech\assets\images\pepe4.avif
+Content Type: image/avif
+
+Uri: https://pepemeta.tech/assets/images/pepe5.avif
+File Name: C:\Downloaded Web Sites\pepemeta.tech\assets\images\pepe5.avif
+Content Type: image/avif
+
+Uri: https://pepemeta.tech/assets/images/pepemeta.jpg
+File Name: C:\Downloaded Web Sites\pepemeta.tech\assets\images\pepemeta.jpg
+Content Type: image/jpeg
+
+Uri: https://pepemeta.tech/assets/images/poocoin.png
+File Name: C:\Downloaded Web Sites\pepemeta.tech\assets\images\poocoin.png
+Content Type: image/png
+
+Uri: https://pepemeta.tech/assets/js/anime-helper.js
+File Name: C:\Downloaded Web Sites\pepemeta.tech\assets\js\anime-helper.js
+Content Type: application/javascript
+
+Uri: https://pepemeta.tech/assets/js/anime.min.js
+File Name: C:\Downloaded Web Sites\pepemeta.tech\assets\js\anime.min.js
+Content Type: application/javascript
+
+Uri: https://pepemeta.tech/assets/js/app-head.js
+File Name: C:\Downloaded Web Sites\pepemeta.tech\assets\js\app-head.js
+Content Type: application/javascript
+
+Uri: https://pepemeta.tech/assets/js/app.js
+File Name: C:\Downloaded Web Sites\pepemeta.tech\assets\js\app.js
+Content Type: application/javascript
+
+Uri: https://pepemeta.tech/assets/js/data-attr-helper.js
+File Name: C:\Downloaded Web Sites\pepemeta.tech\assets\js\data-attr-helper.js
+Content Type: application/javascript
+
+Uri: https://pepemeta.tech/assets/js/feather.min.js
+File Name: C:\Downloaded Web Sites\pepemeta.tech\assets\js\feather.min.js
+Content Type: application/javascript
+
+Uri: https://pepemeta.tech/assets/js/jquery.min.js
+File Name: C:\Downloaded Web Sites\pepemeta.tech\assets\js\jquery.min.js
+Content Type: application/javascript
+
+Uri: https://pepemeta.tech/assets/js/swiper-bundle.min.js
+File Name: C:\Downloaded Web Sites\pepemeta.tech\assets\js\swiper-bundle.min.js
+Content Type: application/javascript
+
+Uri: https://pepemeta.tech/assets/js/swiper-helper.js
+File Name: C:\Downloaded Web Sites\pepemeta.tech\assets\js\swiper-helper.js
+Content Type: application/javascript
+
+Uri: https://pepemeta.tech/assets/js/typed-helper.js
+File Name: C:\Downloaded Web Sites\pepemeta.tech\assets\js\typed-helper.js
+Content Type: application/javascript
+
+Uri: https://pepemeta.tech/assets/js/typed.min.js
+File Name: C:\Downloaded Web Sites\pepemeta.tech\assets\js\typed.min.js
+Content Type: application/javascript
+
+Uri: https://pepemeta.tech/assets/js/uikit-components.js
+File Name: C:\Downloaded Web Sites\pepemeta.tech\assets\js\uikit-components.js
+Content Type: application/javascript
+
+Uri: https://pepemeta.tech/assets/js/uikit.min.js
+File Name: C:\Downloaded Web Sites\pepemeta.tech\assets\js\uikit.min.js
+Content Type: application/javascript
+
+Uri: https://www.googletagmanager.com/gtag/js?id=G-B5JJP7FY91
+File Name: C:\Downloaded Web Sites\pepemeta.tech\gtag\js
+Content Type: application/javascript
+
